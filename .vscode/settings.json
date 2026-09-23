@@ -1,0 +1,6 @@
+{
+    "jdk.jdtls.vmArgs": "-XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders -Xmx1G -Xms100m",
+    "jdk.jdkHomeDir": "C:\\Program Files\\Java\\jdk-24",
+    "java.home": "C:\\Program Files\\Java\\jdk-24",
+    "java.jdt.ls.vmargs": "-XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders -Xmx1G -Xms100m"
+}
