@@ -85,3 +85,11 @@ Target found at index 8.
 - **Number of comparisons:** `3`
 - **Time complexity:** `O(log n)`
 - **Space complexity:** `O(1)`
+
+
+
+
+
+
+## formula for binary search 
+(1=N/2^k)  
